@@ -121,15 +121,15 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: char_sprites
     originalName: 
-    pivot: {x: 2.181818, y: -3.3448277}
+    pivot: {x: 0.562212, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     rect:
       serializedVersion: 2
       x: 4
       y: 4
-      width: 55
-      height: 58
+      width: 217
+      height: 252
     spriteID: 9ea376091a1c6894caaab907ef803352
     spriteBone: []
     spriteOutline: []
@@ -151,10 +151,10 @@ ScriptedImporter:
     - name: char_sprites
       frameIndex: 0
       cellRect:
-        x: 8
-        y: 194
-        width: 55
-        height: 58
+        x: 6
+        y: 0
+        width: 217
+        height: 252
       spriteId: 9ea376091a1c6894caaab907ef803352
     linkedCells: []
     parentIndex: -1
